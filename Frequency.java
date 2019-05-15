@@ -9,7 +9,6 @@ Purpose: To count the occurences of each letter of the alphabet from an Excel fi
 
 /*------------------------------------------------------------------------------
     FEEDBACK FROM INSTRUCTOR:
-    
     Nice work and explanation of the cipher but what your guess as to the 
     shift and how to decrypt.  I wanted specifics for this example.
 ------------------------------------------------------------------------------*/
